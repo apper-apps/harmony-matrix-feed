@@ -1,0 +1,129 @@
+{
+  "teachers": [
+    {
+      "Id": 1,
+      "userId": "teacher_1",
+      "name": "John Smith",
+      "email": "john.smith@harmonyhub.com",
+      "phone": "555-1001",
+      "specializations": ["Piano", "Music Theory"],
+      "commissionRate": 0.6,
+      "availability": {
+        "monday": ["09:00-17:00"],
+        "tuesday": ["09:00-17:00"],
+        "wednesday": ["09:00-17:00"],
+        "thursday": ["09:00-17:00"],
+        "friday": ["09:00-15:00"]
+      },
+      "experience": "15 years",
+      "qualifications": ["Bachelor of Music", "Certified Piano Teacher"],
+      "bio": "John has been teaching piano for over 15 years and specializes in classical and jazz styles.",
+      "hourlyRate": 75,
+      "status": "active",
+      "joiningDate": "2020-03-15",
+      "totalStudents": 12,
+      "monthlyEarnings": 3600,
+      "createdAt": "2020-03-15T10:00:00Z"
+    },
+    {
+      "Id": 2,
+      "userId": "teacher_2",
+      "name": "Maria Garcia",
+      "email": "maria.garcia@harmonyhub.com",
+      "phone": "555-1002",
+      "specializations": ["Guitar", "Ukulele"],
+      "commissionRate": 0.65,
+      "availability": {
+        "monday": ["10:00-18:00"],
+        "tuesday": ["10:00-18:00"],
+        "wednesday": ["10:00-18:00"],
+        "thursday": ["10:00-18:00"],
+        "friday": ["10:00-16:00"]
+      },
+      "experience": "8 years",
+      "qualifications": ["Bachelor of Music Performance", "Guitar Performance Certificate"],
+      "bio": "Maria specializes in contemporary guitar styles and has performed with several local bands.",
+      "hourlyRate": 65,
+      "status": "active",
+      "joiningDate": "2021-09-01",
+      "totalStudents": 8,
+      "monthlyEarnings": 2080,
+      "createdAt": "2021-09-01T09:00:00Z"
+    },
+    {
+      "Id": 3,
+      "userId": "teacher_3",
+      "name": "David Kim",
+      "email": "david.kim@harmonyhub.com",
+      "phone": "555-1003",
+      "specializations": ["Violin", "Viola"],
+      "commissionRate": 0.7,
+      "availability": {
+        "tuesday": ["14:00-20:00"],
+        "wednesday": ["14:00-20:00"],
+        "thursday": ["14:00-20:00"],
+        "friday": ["14:00-20:00"],
+        "saturday": ["09:00-15:00"]
+      },
+      "experience": "20 years",
+      "qualifications": ["Master of Music", "Suzuki Method Certified"],
+      "bio": "David is a classically trained violinist with extensive experience in both performance and teaching.",
+      "hourlyRate": 85,
+      "status": "active",
+      "joiningDate": "2019-01-15",
+      "totalStudents": 15,
+      "monthlyEarnings": 5100,
+      "createdAt": "2019-01-15T11:00:00Z"
+    },
+    {
+      "Id": 4,
+      "userId": "teacher_4",
+      "name": "Sarah Thompson",
+      "email": "sarah.thompson@harmonyhub.com",
+      "phone": "555-1004",
+      "specializations": ["Voice", "Performance"],
+      "commissionRate": 0.6,
+      "availability": {
+        "monday": ["16:00-20:00"],
+        "tuesday": ["16:00-20:00"],
+        "wednesday": ["16:00-20:00"],
+        "thursday": ["16:00-20:00"],
+        "saturday": ["10:00-14:00"]
+      },
+      "experience": "12 years",
+      "qualifications": ["Bachelor of Vocal Performance", "Speech Level Singing Certified"],
+      "bio": "Sarah is a professional vocalist who has performed in musical theater and contemporary music.",
+      "hourlyRate": 70,
+      "status": "active",
+      "joiningDate": "2020-08-20",
+      "totalStudents": 10,
+      "monthlyEarnings": 2800,
+      "createdAt": "2020-08-20T14:00:00Z"
+    },
+    {
+      "Id": 5,
+      "userId": "teacher_5",
+      "name": "Michael Brown",
+      "email": "michael.brown@harmonyhub.com",
+      "phone": "555-1005",
+      "specializations": ["Drums", "Percussion"],
+      "commissionRate": 0.55,
+      "availability": {
+        "monday": ["15:00-21:00"],
+        "wednesday": ["15:00-21:00"],
+        "friday": ["15:00-21:00"],
+        "saturday": ["09:00-17:00"],
+        "sunday": ["12:00-18:00"]
+      },
+      "experience": "10 years",
+      "qualifications": ["Berklee College of Music Graduate", "Modern Drummer Certified"],
+      "bio": "Michael is a versatile drummer with experience in jazz, rock, and world music percussion.",
+      "hourlyRate": 60,
+      "status": "active",
+      "joiningDate": "2021-02-10",
+      "totalStudents": 6,
+      "monthlyEarnings": 1440,
+      "createdAt": "2021-02-10T13:30:00Z"
+    }
+  ]
+}

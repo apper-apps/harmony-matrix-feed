@@ -1,0 +1,129 @@
+{
+  "students": [
+    {
+      "Id": 1,
+      "userId": "user_1",
+      "parentId": "parent_1",
+      "name": "Sarah Johnson",
+      "email": "sarah.johnson@email.com",
+      "phone": "555-0101",
+      "dateOfBirth": "2008-03-15",
+      "enrollments": [
+        {
+          "classId": 1,
+          "className": "Piano Beginner",
+          "startDate": "2024-01-15",
+          "status": "active"
+        }
+      ],
+      "notes": "Excellent progress in theory",
+      "parentName": "Michael Johnson",
+      "parentEmail": "michael.johnson@email.com",
+      "parentPhone": "555-0102",
+      "emergencyContact": "Jane Johnson - 555-0103",
+      "address": "123 Main St, Anytown, ST 12345",
+      "createdAt": "2024-01-10T10:00:00Z",
+      "lastActivity": "2024-01-20T14:30:00Z"
+    },
+    {
+      "Id": 2,
+      "userId": "user_2",
+      "parentId": "parent_2",
+      "name": "Mike Chen",
+      "email": "mike.chen@email.com",
+      "phone": "555-0201",
+      "dateOfBirth": "2010-07-22",
+      "enrollments": [
+        {
+          "classId": 2,
+          "className": "Guitar Advanced",
+          "startDate": "2024-01-08",
+          "status": "active"
+        }
+      ],
+      "notes": "Shows great potential in improvisation",
+      "parentName": "Linda Chen",
+      "parentEmail": "linda.chen@email.com",
+      "parentPhone": "555-0202",
+      "emergencyContact": "David Chen - 555-0203",
+      "address": "456 Oak Ave, Anytown, ST 12345",
+      "createdAt": "2024-01-05T09:00:00Z",
+      "lastActivity": "2024-01-19T16:45:00Z"
+    },
+    {
+      "Id": 3,
+      "userId": "user_3",
+      "parentId": "parent_3",
+      "name": "Emma Davis",
+      "email": "emma.davis@email.com",
+      "phone": "555-0301",
+      "dateOfBirth": "2009-11-08",
+      "enrollments": [
+        {
+          "classId": 3,
+          "className": "Violin Intermediate",
+          "startDate": "2024-01-22",
+          "status": "active"
+        }
+      ],
+      "notes": "Needs more practice on scales",
+      "parentName": "Robert Davis",
+      "parentEmail": "robert.davis@email.com",
+      "parentPhone": "555-0302",
+      "emergencyContact": "Susan Davis - 555-0303",
+      "address": "789 Pine Rd, Anytown, ST 12345",
+      "createdAt": "2024-01-18T11:30:00Z",
+      "lastActivity": "2024-01-21T10:15:00Z"
+    },
+    {
+      "Id": 4,
+      "userId": "user_4",
+      "parentId": "parent_4",
+      "name": "Alex Rodriguez",
+      "email": "alex.rodriguez@email.com",
+      "phone": "555-0401",
+      "dateOfBirth": "2011-05-12",
+      "enrollments": [
+        {
+          "classId": 4,
+          "className": "Drums Beginner",
+          "startDate": "2024-02-01",
+          "status": "pending"
+        }
+      ],
+      "notes": "Enthusiastic about rhythm",
+      "parentName": "Maria Rodriguez",
+      "parentEmail": "maria.rodriguez@email.com",
+      "parentPhone": "555-0402",
+      "emergencyContact": "Carlos Rodriguez - 555-0403",
+      "address": "321 Elm St, Anytown, ST 12345",
+      "createdAt": "2024-01-25T13:00:00Z",
+      "lastActivity": "2024-01-26T09:20:00Z"
+    },
+    {
+      "Id": 5,
+      "userId": "user_5",
+      "parentId": "parent_5",
+      "name": "Lily Wang",
+      "email": "lily.wang@email.com",
+      "phone": "555-0501",
+      "dateOfBirth": "2007-09-30",
+      "enrollments": [
+        {
+          "classId": 5,
+          "className": "Voice Advanced",
+          "startDate": "2024-01-12",
+          "status": "active"
+        }
+      ],
+      "notes": "Exceptional vocal range",
+      "parentName": "James Wang",
+      "parentEmail": "james.wang@email.com",
+      "parentPhone": "555-0502",
+      "emergencyContact": "Grace Wang - 555-0503",
+      "address": "654 Maple Dr, Anytown, ST 12345",
+      "createdAt": "2024-01-08T15:45:00Z",
+      "lastActivity": "2024-01-20T11:30:00Z"
+    }
+  ]
+}

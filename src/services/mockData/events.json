@@ -1,0 +1,72 @@
+{
+  "events": [
+    {
+      "Id": 1,
+      "title": "Piano Beginner - Sarah Johnson",
+      "date": "2024-01-29",
+      "time": "10:00 AM",
+      "type": "class",
+      "classId": 1,
+      "teacherId": 1,
+      "studentId": 1,
+      "roomId": 1,
+      "status": "scheduled"
+    },
+    {
+      "Id": 2,
+      "title": "Guitar Advanced - Mike Chen",
+      "date": "2024-01-30",
+      "time": "2:00 PM",
+      "type": "class",
+      "classId": 2,
+      "teacherId": 2,
+      "studentId": 2,
+      "roomId": 2,
+      "status": "scheduled"
+    },
+    {
+      "Id": 3,
+      "title": "Violin Intermediate - Emma Davis",
+      "date": "2024-01-31",
+      "time": "4:00 PM",
+      "type": "class",
+      "classId": 3,
+      "teacherId": 3,
+      "studentId": 3,
+      "roomId": 3,
+      "status": "scheduled"
+    },
+    {
+      "Id": 4,
+      "title": "Voice Advanced - Lily Wang",
+      "date": "2024-02-02",
+      "time": "6:00 PM",
+      "type": "class",
+      "classId": 5,
+      "teacherId": 4,
+      "studentId": 5,
+      "roomId": 5,
+      "status": "scheduled"
+    },
+    {
+      "Id": 5,
+      "title": "Spring Recital",
+      "date": "2024-03-15",
+      "time": "7:00 PM",
+      "type": "event",
+      "description": "Annual spring recital featuring all students",
+      "location": "Main Auditorium",
+      "status": "scheduled"
+    },
+    {
+      "Id": 6,
+      "title": "Trial Lesson - New Student",
+      "date": "2024-02-01",
+      "time": "3:00 PM",
+      "type": "trial",
+      "teacherId": 1,
+      "roomId": 1,
+      "status": "scheduled"
+    }
+  ]
+}

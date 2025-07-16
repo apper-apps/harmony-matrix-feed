@@ -1,0 +1,102 @@
+{
+  "attendance": [
+    {
+      "Id": 1,
+      "enrollmentId": 1,
+      "studentId": 1,
+      "studentName": "Sarah Johnson",
+      "classId": 1,
+      "className": "Piano Beginner",
+      "date": "2024-01-15",
+      "status": "present",
+      "checkedInAt": "2024-01-15T10:00:00Z",
+      "notes": "Good progress on scales",
+      "teacherId": 1,
+      "teacherName": "John Smith"
+    },
+    {
+      "Id": 2,
+      "enrollmentId": 1,
+      "studentId": 1,
+      "studentName": "Sarah Johnson",
+      "classId": 1,
+      "className": "Piano Beginner",
+      "date": "2024-01-22",
+      "status": "present",
+      "checkedInAt": "2024-01-22T10:05:00Z",
+      "notes": "Worked on new piece",
+      "teacherId": 1,
+      "teacherName": "John Smith"
+    },
+    {
+      "Id": 3,
+      "enrollmentId": 2,
+      "studentId": 2,
+      "studentName": "Mike Chen",
+      "classId": 2,
+      "className": "Guitar Advanced",
+      "date": "2024-01-09",
+      "status": "present",
+      "checkedInAt": "2024-01-09T14:00:00Z",
+      "notes": "Excellent improvisation skills",
+      "teacherId": 2,
+      "teacherName": "Maria Garcia"
+    },
+    {
+      "Id": 4,
+      "enrollmentId": 2,
+      "studentId": 2,
+      "studentName": "Mike Chen",
+      "classId": 2,
+      "className": "Guitar Advanced",
+      "date": "2024-01-16",
+      "status": "absent",
+      "checkedInAt": null,
+      "notes": "Student notified about absence",
+      "teacherId": 2,
+      "teacherName": "Maria Garcia"
+    },
+    {
+      "Id": 5,
+      "enrollmentId": 3,
+      "studentId": 3,
+      "studentName": "Emma Davis",
+      "classId": 3,
+      "className": "Violin Intermediate",
+      "date": "2024-01-24",
+      "status": "present",
+      "checkedInAt": "2024-01-24T16:00:00Z",
+      "notes": "Needs more practice on intonation",
+      "teacherId": 3,
+      "teacherName": "David Kim"
+    },
+    {
+      "Id": 6,
+      "enrollmentId": 5,
+      "studentId": 5,
+      "studentName": "Lily Wang",
+      "classId": 5,
+      "className": "Voice Advanced",
+      "date": "2024-01-12",
+      "status": "present",
+      "checkedInAt": "2024-01-12T18:00:00Z",
+      "notes": "Outstanding vocal performance",
+      "teacherId": 4,
+      "teacherName": "Sarah Thompson"
+    },
+    {
+      "Id": 7,
+      "enrollmentId": 5,
+      "studentId": 5,
+      "studentName": "Lily Wang",
+      "classId": 5,
+      "className": "Voice Advanced",
+      "date": "2024-01-19",
+      "status": "late",
+      "checkedInAt": "2024-01-19T18:15:00Z",
+      "notes": "Arrived 15 minutes late",
+      "teacherId": 4,
+      "teacherName": "Sarah Thompson"
+    }
+  ]
+}

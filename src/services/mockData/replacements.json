@@ -1,0 +1,55 @@
+{
+  "replacements": [
+    {
+      "Id": 1,
+      "enrollmentId": 1,
+      "studentId": 1,
+      "studentName": "Sarah Johnson",
+      "classId": 1,
+      "className": "Piano Beginner",
+      "originalDate": "2024-02-05",
+      "requestedDate": "2024-02-07",
+      "status": "approved",
+      "reason": "Family vacation",
+      "requestedBy": "Michael Johnson",
+      "approvedBy": "John Smith",
+      "requestDate": "2024-01-28T10:00:00Z",
+      "approvedDate": "2024-01-28T14:00:00Z",
+      "notes": "Makeup class scheduled"
+    },
+    {
+      "Id": 2,
+      "enrollmentId": 2,
+      "studentId": 2,
+      "studentName": "Mike Chen",
+      "classId": 2,
+      "className": "Guitar Advanced",
+      "originalDate": "2024-02-13",
+      "requestedDate": "2024-02-15",
+      "status": "pending",
+      "reason": "School exam",
+      "requestedBy": "Linda Chen",
+      "approvedBy": null,
+      "requestDate": "2024-01-30T09:00:00Z",
+      "approvedDate": null,
+      "notes": "Waiting for teacher confirmation"
+    },
+    {
+      "Id": 3,
+      "enrollmentId": 3,
+      "studentId": 3,
+      "studentName": "Emma Davis",
+      "classId": 3,
+      "className": "Violin Intermediate",
+      "originalDate": "2024-02-14",
+      "requestedDate": "2024-02-16",
+      "status": "rejected",
+      "reason": "Doctor appointment",
+      "requestedBy": "Robert Davis",
+      "approvedBy": "David Kim",
+      "requestDate": "2024-01-29T15:00:00Z",
+      "approvedDate": "2024-01-29T16:00:00Z",
+      "notes": "No available slots on requested date"
+    }
+  ]
+}

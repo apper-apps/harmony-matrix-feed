@@ -1,0 +1,148 @@
+{
+  "classes": [
+    {
+      "Id": 1,
+      "name": "Piano Beginner",
+      "teacherId": 1,
+      "teacherName": "John Smith",
+      "roomId": 1,
+      "roomName": "Piano Room A",
+      "schedule": {
+        "dayOfWeek": "Monday",
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "duration": 60
+      },
+      "capacity": 1,
+      "currentEnrollment": 1,
+      "price": 75,
+      "level": "Beginner",
+      "description": "Introduction to piano fundamentals, basic music theory, and simple songs.",
+      "requirements": "No prior experience required",
+      "status": "active",
+      "startDate": "2024-01-15",
+      "endDate": "2024-06-15",
+      "createdAt": "2024-01-01T10:00:00Z"
+    },
+    {
+      "Id": 2,
+      "name": "Guitar Advanced",
+      "teacherId": 2,
+      "teacherName": "Maria Garcia",
+      "roomId": 2,
+      "roomName": "Guitar Room B",
+      "schedule": {
+        "dayOfWeek": "Tuesday",
+        "startTime": "14:00",
+        "endTime": "15:30",
+        "duration": 90
+      },
+      "capacity": 1,
+      "currentEnrollment": 1,
+      "price": 95,
+      "level": "Advanced",
+      "description": "Advanced guitar techniques, improvisation, and music composition.",
+      "requirements": "Intermediate level experience required",
+      "status": "active",
+      "startDate": "2024-01-08",
+      "endDate": "2024-06-08",
+      "createdAt": "2024-01-01T11:00:00Z"
+    },
+    {
+      "Id": 3,
+      "name": "Violin Intermediate",
+      "teacherId": 3,
+      "teacherName": "David Kim",
+      "roomId": 3,
+      "roomName": "String Room C",
+      "schedule": {
+        "dayOfWeek": "Wednesday",
+        "startTime": "16:00",
+        "endTime": "17:00",
+        "duration": 60
+      },
+      "capacity": 1,
+      "currentEnrollment": 1,
+      "price": 85,
+      "level": "Intermediate",
+      "description": "Intermediate violin techniques, classical repertoire, and ensemble playing.",
+      "requirements": "Basic violin knowledge required",
+      "status": "active",
+      "startDate": "2024-01-22",
+      "endDate": "2024-06-22",
+      "createdAt": "2024-01-01T12:00:00Z"
+    },
+    {
+      "Id": 4,
+      "name": "Drums Beginner",
+      "teacherId": 5,
+      "teacherName": "Michael Brown",
+      "roomId": 4,
+      "roomName": "Drum Room D",
+      "schedule": {
+        "dayOfWeek": "Thursday",
+        "startTime": "17:00",
+        "endTime": "18:00",
+        "duration": 60
+      },
+      "capacity": 1,
+      "currentEnrollment": 0,
+      "price": 60,
+      "level": "Beginner",
+      "description": "Basic drum patterns, rhythm fundamentals, and popular song styles.",
+      "requirements": "No prior experience required",
+      "status": "active",
+      "startDate": "2024-02-01",
+      "endDate": "2024-07-01",
+      "createdAt": "2024-01-01T13:00:00Z"
+    },
+    {
+      "Id": 5,
+      "name": "Voice Advanced",
+      "teacherId": 4,
+      "teacherName": "Sarah Thompson",
+      "roomId": 5,
+      "roomName": "Vocal Room E",
+      "schedule": {
+        "dayOfWeek": "Friday",
+        "startTime": "18:00",
+        "endTime": "19:00",
+        "duration": 60
+      },
+      "capacity": 1,
+      "currentEnrollment": 1,
+      "price": 70,
+      "level": "Advanced",
+      "description": "Advanced vocal techniques, performance skills, and song interpretation.",
+      "requirements": "Intermediate vocal experience required",
+      "status": "active",
+      "startDate": "2024-01-12",
+      "endDate": "2024-06-12",
+      "createdAt": "2024-01-01T14:00:00Z"
+    },
+    {
+      "Id": 6,
+      "name": "Music Theory Group",
+      "teacherId": 1,
+      "teacherName": "John Smith",
+      "roomId": 6,
+      "roomName": "Theory Room F",
+      "schedule": {
+        "dayOfWeek": "Saturday",
+        "startTime": "10:00",
+        "endTime": "11:30",
+        "duration": 90
+      },
+      "capacity": 6,
+      "currentEnrollment": 0,
+      "price": 45,
+      "level": "All Levels",
+      "description": "Comprehensive music theory covering scales, chords, and composition.",
+      "requirements": "Basic music reading ability helpful",
+      "status": "pending",
+      "startDate": "2024-02-10",
+      "endDate": "2024-07-10",
+      "createdAt": "2024-01-01T15:00:00Z"
+    }
+  ]
+}
